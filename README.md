@@ -38,6 +38,7 @@ priyanshu6091-document_qna/
 └── assets/
 
 ## Getting Started
+![image](https://github.com/user-attachments/assets/2c6fff33-0401-4406-8625-b3a65bac4f35)
 
 ### Prerequisites
 
